@@ -3,7 +3,8 @@
 ## 🎉 Exciting Update!
 I’m thrilled to share that I’ve just completed a project focused on **Hospitality Domain Analysis**!
 
-![image](https://github.com/user-attachments/assets/39098cbb-28ac-47c6-aa57-7913cc40ff6c)
+![image](https://github.com/user-attachments/assets/1ba6af6f-66c8-4984-ab56-197fa76ba336)
+
 
 ## 📉 Problem Statement  
 A prestigious chain of five-star hotels in India has been facing challenges with declining market share and revenue due to competitive pressures and management issues. To tackle this, management aims to leverage business and data intelligence for strategic improvements. With no in-house analytics team, they are seeking an external service provider to extract valuable insights from their historical data.
